@@ -38,6 +38,10 @@ TERRAFORM-MODULES/
 
 ---
 
+## 🗺️ Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.svg)
+
 ## ⚙️ How It Works
 
 ```
@@ -154,7 +158,5 @@ After `terraform apply`, you will see:
 
 ---
 
-## 🗺️ Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.svg)
 
