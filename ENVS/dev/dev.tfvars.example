@@ -1,0 +1,8 @@
+cidr-block =""
+Name = ""
+public_cidr = ""
+private_cidr = ""
+availability_zone = ""
+ami_id = ""
+name = ""
+instance_type = ""
