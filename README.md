@@ -154,6 +154,3 @@ After `terraform apply`, you will see:
 
 ---
 
-## 👤 Author
-
-**Arshad Ahmad Khan** — Learning Terraform & AWS Infrastructure as Code
