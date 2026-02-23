@@ -14,3 +14,6 @@ module "vpc" {
     public_cidr = var.public_cidr
     Name = var.Name
 }
+
+
+
