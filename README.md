@@ -38,6 +38,10 @@ TERRAFORM-MODULES/
 
 ---
 
+## 🗺️ Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.svg)
+
 ## ⚙️ How It Works
 
 ```
@@ -153,4 +157,6 @@ After `terraform apply`, you will see:
 - **Multi-environment setup** — Dev is there but we can add production env also.
 
 ---
+
+
 
